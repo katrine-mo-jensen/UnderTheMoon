@@ -1,7 +1,13 @@
 nav {
   background-color: #262626;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
   ul {
     display: flex;
+    gap: 20px;
+    max-width: 1080px;
     li {
       list-style-type: none;
       a {
