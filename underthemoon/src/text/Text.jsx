@@ -1,7 +1,7 @@
 export function Text() {
   return (
     <>
-      <h2>under the moon - new style</h2>
+      <h2>Under the moon - new style</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae nisi non
         doloremque unde ex itaque beatae. Non fugit molestias eius, amet porro

@@ -1,11 +1,11 @@
 
 import './App.css'
-import { Footer } from './component/Footer'
-import { Header } from './component/Header'
-import { Navbar } from './component/Navbar'
-import { PicGallery } from './component/PicGallery'
-import { Text } from './component/Text'
-import { TwoPics } from './component/TwoPics'
+import { Footer } from './footer/Footer'
+import { Header } from './header/Header'
+import { Navbar } from './navbar/Navbar'
+import { PicGallery } from './picgallery/PicGallery'
+import { Text } from './text/Text'
+import { TwoPics } from './twopics/TwoPics'
 
 
 function App() {

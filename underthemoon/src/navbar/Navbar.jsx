@@ -1,6 +1,8 @@
+import style from './navbar.module.scss'
+
 export function Navbar() {
   return (
-    <nav>
+    <nav >
       <ul>
         <li>
           <a href="#">Hjem</a>
