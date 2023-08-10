@@ -11,7 +11,7 @@ export function Footer() {
           <a href="#">Sign up</a>
         </button>
       </section>
-      <article>
+      <article className="quicklinks">
         <h4>Quick links</h4>
         <a href="#">Hjem</a>
         <a href="#">Om os</a>
@@ -30,7 +30,7 @@ export function Footer() {
           <img src="" alt="" />
         </a>
       </article>
-      <article>
+      <article className="findus">
         <h4>Find us</h4>
         <p>
           WhatsApp <br />

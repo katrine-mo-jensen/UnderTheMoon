@@ -1,7 +1,7 @@
 export function TwoPics() {
   return (
     <>
-      <article class="one2one">
+      <article className="one2one">
         <h2>One 2 One</h2>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut
@@ -10,7 +10,7 @@ export function TwoPics() {
         </p>
         <a href="#">Book tid</a>
       </article>
-      <article class="loyaltyfree">
+      <article className="loyaltyfree">
         <h2>Loyalty free</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
